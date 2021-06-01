@@ -35,6 +35,9 @@ Data Analysis / Visualizations:
 - Scatter plot for CA - Population Density vs. COVID Cases per Capita w/ linear regression 
 - Saatter plot for TX - Population Density vs. COVID Cases per Capita w/ linear regression
 
+![image](https://user-images.githubusercontent.com/71199243/120377486-0b186180-c2d2-11eb-9d09-f6d5415e95f0.png)
+
+
 Tools:
 
 - jupyter notebook
